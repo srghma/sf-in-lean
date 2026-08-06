@@ -2,6 +2,18 @@ import SFLMeta.Bnf
 import SFLMeta.Ignore
 import SFLMeta.Save
 
+
+-- Preface | Preface
+-- Basics | Functional Programming in Rocq
+-- Induction | Proof by Induction
+-- ...
+-- Lists | Working with Structured Data
+-- Poly | Polymorphism and Higher-Order Functions
+-- Tactics | More Basic Tactics
+-- Logic | Logic in Rocq
+-- IndProp | Inductively Defined Propositions
+-- ...
+
 import LF.Preface
 import LF.Basics
 import LF.Induction
@@ -13,6 +25,19 @@ import LF.Logic
 import LF.IndProp
 import LF.Automation
 import LF.Typeclasses
+
+-- Maps | Total and Partial Maps
+-- ProofObjects | The Curry-Howard Correspondence
+-- IndPrinciples | Induction Principles
+-- Rel | Properties of Relations
+-- Imp | Simple Imperative Programs
+-- ImpParser | Lexing and Parsing in Rocq
+-- ImpCEvalFun | An Evaluation Function for Imp
+-- Extraction | Extracting OCaml from Rocq
+-- Auto | More Automation
+-- AltAuto | A Streamlined Treatment of Automation
+-- Postscript | Postscript
+-- Bib | Bibliography
 
 import VersoManual
 

@@ -1,0 +1,21 @@
+-- Preface | Introduction to the Course
+-- Basic | Basic Proofs in Separation Logic
+-- Repr | Representation Predicates
+-- Hprop | Heap Predicates
+-- Himpl | Heap Entailment
+-- Triples | Structural Reasoning Rules
+-- Rules | Reasoning Rules for Term Constructs
+-- Wand | The Magic Wand and Other Operators
+-- WPsem | Semantics of Weakest Preconditions
+-- WPgen | Weakest Precondition Generator
+-- WPsound | Soundness of the Weakest Precondition Generator
+-- Affine | Affine Separation Logic
+-- Arrays | Reasoning about Arrays
+-- Records | Reasoning about Records
+-- Postscript | Conclusion and Perspectives
+-- Bib | Bibliography
+-- LibSepReference | Appendix - The Full Construction
+-- LibSepFmap | Appendix - Finite Maps
+-- LibSepVar | Appendix - Program Variables
+-- LibSepSimpl | Appendix - Simplification Tactic for Entailments
+-- LibSepMinimal | Appendix - Minimalistic Soundness Proof
